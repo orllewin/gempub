@@ -1,0 +1,87 @@
+# Star Maker
+## William Olaf Stapledon
+
+=> 0_preface.gmi Preface
+
+### Chapter 1 THE EARTH
+
+=> chapter_1_1_the_starting_point.gmi 1.1 The Starting Point
+=> chapter_1_2_earth_among_the_stars.gmi 1.2 Earth Among the Stars
+
+### Chapter 2 INTERSTELLAR TRAVEL
+
+=> chapter_2_1_interstellar_travel.gmi 2.1 Interstellar Travel
+
+### Chapter 3 THE OTHER EARTH
+
+=> chapter_3_1_on_the_other_earth.gmi 3.1 On the Other Earth
+=> chapter_3_2_a_busy_world.gmi 3.2 A Busy World
+=> chapter_3_3_prospects_of_the_race.gmi 3.3 Prospects of the Race
+
+### Chapter 4 I TRAVEL AGAIN
+
+=> chapter_4_1_i_travel_again.gmi 4.1 I Travel Again
+
+### Chapter 5 WORLDS INNUMERABLE
+
+=> chapter_5_1_worlds_innumerable.gmi 5.1 Worlds Innumerable
+=> chapter_5_2_strange_mankinds.gmi 5.2 Strange Mankinds
+=> chapter_5_3_nautiloids.gmi 5.3 Nautiloids
+
+### Chapter 6 INTIMATIONS OF THE STAR MAKER
+
+=> chapter_6_1_intimations_of_the_star_maker.gmi 6.1 Intimations of the Star Maker
+
+### Chapter 7 MORE WORLDS
+
+=> chapter_7_1_a_symbolic_race.gmi 7.1 A Symbolic Race
+=> chapter_7_2_composite_beings.gmi 7.2 Composite Beings
+=> chapter_7_3_plant_men_and_others.gmi 7.3 Plant Men and Others
+
+### Chapter 8 CONCERNING THE EXPLORERS
+
+=> chapter_8_1_concerning_the_explorers.gmi 8.1 Concerning the Explorers
+
+### Chapter 9 THE COMMUNITY OF WORLDS
+
+=> chapter_9_1_busy_utopias.gmi 9.1 Busy Utopias
+=> chapter_9_2_in_mundane_strife.gmi 9.2 In Mundane Strife
+=> chapter_9_3_a_crisis_in_galactic_history.gmi 9.3 A Crisis in Galactic History
+=> chapter_9_4_triumph_in_a_sub_galaxy.gmi 9.4 Triumph in a Sub-Galaxy
+=> chapter_9_5_the_tragedy_of_the_perverts.gmi 9.5 The Tragedy of the Perverts
+=> chapter_9_6_a_galactic_utopia.gmi 9.6 A Galactic Utopia
+
+### Chapter 10 A VISION OF THE GALAXY
+
+=> chapter_10_a_vision_of_the_galaxy.gmi 10.1 A Vision of the Galaxy
+
+### Chapter 11 STARS AND VERMIN
+
+=> chapter_11_1_the_many_galaxies.gmi 11.1 The Many Galaxies
+=> chapter_11_2_disaster_in_our_galaxy.gmi 11.2 Disaster in our Galaxy
+=> chapter_11_3_stars.gmi 11.3 Stars
+=> chapter_11_4_galactic_symbiosis.gmi 11.4 Galactic Symbiosis
+
+### Chapter 12 A STUNTED COSMICAL SPIRIT
+
+=> chapter_12_1_a_stunted_cosmical_spirit.gmi 12.1 A Stunted Cosmical Spirit
+
+### Chapter 13 THE BEGINNING AND THE END
+
+=> chapter_13_1_back_to_the_nebulae.gmi 13.1 Back to the Nebulae
+=> chapter_13_2_the_supreme_moment_nears.gmi 13.2 The Supreme Moment Nears
+=> chapter_13_3_the_supreme_moment_and_after.gmi 13.3 The Supreme Moment and After
+
+### Chapter 14 THE MYTH OF CREATION
+
+=> chapter_14_1_the_myth_of_creation.gmi 14.1 The Myth of Creation
+
+### Chapter 15 THE MAKER AND HIS WORKS
+
+=> chapter_15_1_immature_creating.gmi 15.1 Immature Creating
+=> chapter_15_2_mature_creating.gmi 15.2 Mature Creating
+=> chapter_15_3_the_ultimate_cosmos_and_the_eternal_spirit.gmi 15.3 The Ultimate Cosmos and the Eternal Spirit
+
+### Epilogue
+
+=> chapter_16_1_epilogue_back_to_earth.gmi Epilogue: Back to Earth

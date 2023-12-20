@@ -1,0 +1,6 @@
+title: Star Maker
+author: William Olaf Stapledon
+published: 1937
+language: en
+gpubVersion: 0.0.1
+cover: merveilles_moire.png
